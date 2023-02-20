@@ -36,5 +36,5 @@
 section.main__history.history>
 div.history__part>(div.history__content>h3.history__heading+p.history__paragraph*2)+div.history__image-wrapper>img.history__image
 div.history__part .history__part--reverse>(div.history__content>h3.history__heading+p.history__paragraph*3+a.history__link)+div.history__image-wrapper>img.history__image
-div.history__part .history__part--reverse>(div.history__content>h3.history__heading+p.history__paragraph*3+a.history__link)+div.history__image-wrapper>img.history__image
+div.history__part>(div.history__content>h3.history__heading+p.history__paragraph*3)+div.history__image-wrapper>img.history__image
 ```
