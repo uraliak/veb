@@ -21,7 +21,7 @@
 ### form 
 ![form](/img/form.png "form")
 ```
-.footer__feedback .feedback>.feedback__wrapper>.feedback__heading+.feedback__subheading+(.feedback__form .form>(.feedback__label*4>.feedback__input)+(.feedback__label>.textarea))+.feedback__button
+.footer__feedback .feedback>.feedback__wrapper>.feedback__heading+.feedback__subheading+(.feedback__form .form>(.feedback__label*4>.feedback__input)+(.feedback__label>.feedback__textarea))+.feedback__button
 ```
 
 ### card-block 
@@ -33,13 +33,8 @@
 ### info
 ![info](/img/info.png "info")
 ```
-section.main__history.history>div.history__part>(div.history__content>h3.history__heading+p.history__paragraph*2)+div.history__image-wrapper>img.history__image
+section.main__history.history>
+div.history__part>(div.history__content>h3.history__heading+p.history__paragraph*2)+div.history__image-wrapper>img.history__image
+div.history__part .history__part--reverse>(div.history__content>h3.history__heading+p.history__paragraph*3+a.history__link)+div.history__image-wrapper>img.history__image
+div.history__part .history__part--reverse>(div.history__content>h3.history__heading+p.history__paragraph*3+a.history__link)+div.history__image-wrapper>img.history__image
 ```
-```
-section.main__history.history>div.history__part .history__part--reverse>(div.history__content>h3.history__heading+p.history__paragraph*3+a.history__link)+div.history__image-wrapper>img.history__image
-```
-```
-section.main__history.history>div.history__part>(div.history__content>h3.history__heading+p.history__paragraph*3)+div.history__image-wrapper>img.history__image
-```
-
-
