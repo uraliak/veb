@@ -27,7 +27,7 @@ section.footer__feedback.feedback>div.feedback__wrapper>h2.feedback__heading+h3.
 ### card-block 
 ![card-block](/img/card-block.png "card-block")
 ```
-section.main__products.products>div.products__wrapper>ul.products__list>li.products__item*6>(img.products__image+h2.products__heading+p.products__text)
+section.main__products.products>div.products__wrapper>ul.products__list>li.products__cart*6.cart>(img.cart__image+h2.cart__heading+p.cart__text)
 ```
 
 ### info
