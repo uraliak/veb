@@ -15,19 +15,19 @@
 ### header
 ![header](/img/header.png "header")
 ```
-class.header>div.header__wrapper>(a.header__logo.logo>img.logo__image)+(nav.header__navigation.navigation>ul.navigation__list>li.navigation__item*4>a.navigation__link)+button.header__button--basket
+header.header>div.header__wrapper>(a.header__logo.logo>img.logo__image)+(nav.header__navigation.navigation>ul.navigation__list>li.navigation__item*4>a.navigation__link)+button.header__button--basket
 ```
 
 ### form 
 ![form](/img/form.png "form")
 ```
-class.footer__feedback.feedback>div.feedback__wrapper>h2.feedback__heading+h3.feedback__subheading+(form.feedback__form.form>(label.feedback__label*4>input.feedback__input)+(label.feedback__label>textarea.feedback__textarea))+button.feedback__button
+section.footer__feedback.feedback>div.feedback__wrapper>h2.feedback__heading+h3.feedback__subheading+(form.feedback__form.form>(label.feedback__label*4>input.feedback__input)+(label.feedback__label>textarea.feedback__textarea))+button.feedback__button
 ```
 
 ### card-block 
 ![card-block](/img/card-block.png "card-block")
 ```
-class.main__products.products>div.products__wrapper>ul.products__list>li.products__item*6>(img.products__image+h2.products__heading+p.products__text)
+section.main__products.products>div.products__wrapper>ul.products__list>li.products__item*6>(img.products__image+h2.products__heading+p.products__text)
 ```
 
 ### info
